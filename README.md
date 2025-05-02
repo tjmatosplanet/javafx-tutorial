@@ -69,5 +69,7 @@ In order to be able to run/debug it from the IDE its required to download/point 
 - Now its only press Run or Debug!
 
 
+Note: any specific doubt please contact me via tmp@isep.ipp.pt or check the example project in the src folder!
+
 
 
