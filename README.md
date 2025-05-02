@@ -56,7 +56,7 @@ Then, after hitting the ``` javafx:run ```  the application should appear a new 
 
 ## How to debug/run without maven
 
-Even though its configured on maven, when hitting the run arrow in the IDE it's not able to run it, its required to tell the JVM that needs to include those dependencies (JavaFX)
+Even though its configured on maven, when hitting the run arrow in the IDE it's not able to run it, its required to tell the JVM that needs to include those dependencies (JavaFX).
 In order to be able to run/debug it from the IDE its required to download/point the location of the JavaFx libraries in the local pc
 - I suggest to download the JavaFx SDK from the [JavaFx](https://gluonhq.com/products/javafx/) website  and extract it into a folder
 - Then create an environmental variable called PATH_TO_FX that should be pointed to the lib folder of the extracted JavaFX
