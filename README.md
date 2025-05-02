@@ -6,7 +6,7 @@
 
 ==============================================
 
-First create a simple java maven project poiting to the correct JDK
+First create a simple java maven project pointing to the correct JDK
 
 ![Create Project](./docs/create_mvn_proj.png)
 
